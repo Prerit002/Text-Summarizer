@@ -1,0 +1,259 @@
+[2024-11-30 12:28:15,545: INFO: server: Started server process [77876]]
+[2024-11-30 12:28:15,546: INFO: on: Waiting for application startup.]
+[2024-11-30 12:28:15,546: INFO: on: Application startup complete.]
+[2024-11-30 12:28:15,547: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-11-30 12:29:54,629: INFO: server: Shutting down]
+[2024-11-30 12:29:54,735: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:29:54,735: INFO: on: Application shutdown complete.]
+[2024-11-30 12:29:54,736: INFO: server: Finished server process [77876]]
+[2024-11-30 12:29:56,995: INFO: server: Started server process [28140]]
+[2024-11-30 12:29:56,997: INFO: on: Waiting for application startup.]
+[2024-11-30 12:29:56,997: INFO: on: Application startup complete.]
+[2024-11-30 12:29:56,998: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-11-30 12:38:49,368: INFO: server: Started server process [47408]]
+[2024-11-30 12:38:49,368: INFO: on: Waiting for application startup.]
+[2024-11-30 12:38:49,369: INFO: on: Application startup complete.]
+[2024-11-30 12:38:49,369: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8080): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:38:49,369: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:38:49,369: INFO: on: Application shutdown complete.]
+[2024-11-30 12:41:10,025: INFO: server: Started server process [38424]]
+[2024-11-30 12:41:10,025: INFO: on: Waiting for application startup.]
+[2024-11-30 12:41:10,026: INFO: on: Application startup complete.]
+[2024-11-30 12:41:10,026: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-11-30 12:43:49,482: INFO: server: Started server process [70820]]
+[2024-11-30 12:43:49,482: INFO: on: Waiting for application startup.]
+[2024-11-30 12:43:49,483: INFO: on: Application startup complete.]
+[2024-11-30 12:43:49,484: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8080): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:43:49,484: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:43:49,484: INFO: on: Application shutdown complete.]
+[2024-11-30 12:46:02,213: INFO: server: Started server process [53940]]
+[2024-11-30 12:46:02,213: INFO: on: Waiting for application startup.]
+[2024-11-30 12:46:02,213: INFO: on: Application startup complete.]
+[2024-11-30 12:46:02,214: INFO: server: Uvicorn running on http://0.0.0.0:8081 (Press CTRL+C to quit)]
+[2024-11-30 12:47:17,105: INFO: server: Started server process [77128]]
+[2024-11-30 12:47:17,106: INFO: on: Waiting for application startup.]
+[2024-11-30 12:47:17,106: INFO: on: Application startup complete.]
+[2024-11-30 12:47:17,107: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:47:17,107: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:47:17,107: INFO: on: Application shutdown complete.]
+[2024-11-30 12:47:42,546: INFO: server: Started server process [82348]]
+[2024-11-30 12:47:42,547: INFO: on: Waiting for application startup.]
+[2024-11-30 12:47:42,547: INFO: on: Application startup complete.]
+[2024-11-30 12:47:42,547: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:47:42,548: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:47:42,548: INFO: on: Application shutdown complete.]
+[2024-11-30 12:50:09,302: INFO: server: Started server process [48008]]
+[2024-11-30 12:50:09,303: INFO: on: Waiting for application startup.]
+[2024-11-30 12:50:09,303: INFO: on: Application startup complete.]
+[2024-11-30 12:50:09,303: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:50:09,303: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:50:09,304: INFO: on: Application shutdown complete.]
+[2024-11-30 12:50:20,413: INFO: server: Started server process [85876]]
+[2024-11-30 12:50:20,415: INFO: on: Waiting for application startup.]
+[2024-11-30 12:50:20,415: INFO: on: Application startup complete.]
+[2024-11-30 12:50:20,415: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:50:20,416: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:50:20,416: INFO: on: Application shutdown complete.]
+[2024-11-30 12:50:37,901: INFO: server: Started server process [87556]]
+[2024-11-30 12:50:37,901: INFO: on: Waiting for application startup.]
+[2024-11-30 12:50:37,902: INFO: on: Application startup complete.]
+[2024-11-30 12:50:37,902: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:50:37,902: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:50:37,903: INFO: on: Application shutdown complete.]
+[2024-11-30 12:58:34,553: INFO: server: Started server process [87068]]
+[2024-11-30 12:58:34,553: INFO: on: Waiting for application startup.]
+[2024-11-30 12:58:34,553: INFO: on: Application startup complete.]
+[2024-11-30 12:58:34,554: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 12:58:34,554: INFO: on: Waiting for application shutdown.]
+[2024-11-30 12:58:34,554: INFO: on: Application shutdown complete.]
+[2024-11-30 12:59:09,890: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 13:02:54,510: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 13:26:27,350: INFO: server: Started server process [70676]]
+[2024-11-30 13:26:27,350: INFO: on: Waiting for application startup.]
+[2024-11-30 13:26:27,351: INFO: on: Application startup complete.]
+[2024-11-30 13:26:27,351: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 13:26:27,351: INFO: on: Waiting for application shutdown.]
+[2024-11-30 13:26:27,352: INFO: on: Application shutdown complete.]
+[2024-11-30 13:36:01,439: INFO: server: Started server process [58904]]
+[2024-11-30 13:36:01,440: INFO: on: Waiting for application startup.]
+[2024-11-30 13:36:01,440: INFO: on: Application startup complete.]
+[2024-11-30 13:36:01,440: ERROR: server: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8081): only one usage of each socket address (protocol/network address/port) is normally permitted]
+[2024-11-30 13:36:01,440: INFO: on: Waiting for application shutdown.]
+[2024-11-30 13:36:01,441: INFO: on: Application shutdown complete.]
+[2024-11-30 13:39:50,734: INFO: server: Started server process [88840]]
+[2024-11-30 13:39:50,735: INFO: on: Waiting for application startup.]
+[2024-11-30 13:39:50,735: INFO: on: Application startup complete.]
+[2024-11-30 13:39:50,735: INFO: server: Uvicorn running on http://0.0.0.0:152 (Press CTRL+C to quit)]
+[2024-11-30 13:41:25,373: INFO: server: Started server process [86420]]
+[2024-11-30 13:41:25,374: INFO: on: Waiting for application startup.]
+[2024-11-30 13:41:25,374: INFO: on: Application startup complete.]
+[2024-11-30 13:41:25,375: ERROR: server: [Errno 10049] error while attempting to bind on address ('0.0.0.1', 152): the requested address is not valid in its context]
+[2024-11-30 13:41:25,375: INFO: on: Waiting for application shutdown.]
+[2024-11-30 13:41:25,375: INFO: on: Application shutdown complete.]
+[2024-11-30 13:41:51,730: INFO: server: Started server process [87916]]
+[2024-11-30 13:41:51,730: INFO: on: Waiting for application startup.]
+[2024-11-30 13:41:51,731: INFO: on: Application startup complete.]
+[2024-11-30 13:41:51,731: INFO: server: Uvicorn running on http://0.0.0.0:152 (Press CTRL+C to quit)]
+[2024-11-30 14:37:50,473: INFO: server: Started server process [86072]]
+[2024-11-30 14:37:50,474: INFO: on: Waiting for application startup.]
+[2024-11-30 14:37:50,474: INFO: on: Application startup complete.]
+[2024-11-30 14:37:50,475: INFO: server: Uvicorn running on http://0.0.0.0:152 (Press CTRL+C to quit)]
+[2024-11-30 14:41:21,547: INFO: server: Shutting down]
+[2024-11-30 14:41:21,657: INFO: on: Waiting for application shutdown.]
+[2024-11-30 14:41:21,658: INFO: on: Application shutdown complete.]
+[2024-11-30 14:41:21,658: INFO: server: Finished server process [86072]]
+[2024-11-30 14:41:26,528: INFO: server: Started server process [85792]]
+[2024-11-30 14:41:26,528: INFO: on: Waiting for application startup.]
+[2024-11-30 14:41:26,529: INFO: on: Application startup complete.]
+[2024-11-30 14:41:26,529: INFO: server: Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)]
+[2024-11-30 14:43:38,879: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 14:45:31,519: INFO: server: Shutting down]
+[2024-11-30 14:45:31,628: INFO: on: Waiting for application shutdown.]
+[2024-11-30 14:45:31,628: INFO: on: Application shutdown complete.]
+[2024-11-30 14:45:31,629: INFO: server: Finished server process [85792]]
+[2024-11-30 14:45:59,027: INFO: server: Started server process [71468]]
+[2024-11-30 14:45:59,028: INFO: on: Waiting for application startup.]
+[2024-11-30 14:45:59,028: INFO: on: Application startup complete.]
+[2024-11-30 14:45:59,029: INFO: server: Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)]
+[2024-11-30 14:46:37,720: INFO: server: Shutting down]
+[2024-11-30 14:46:37,829: INFO: on: Waiting for application shutdown.]
+[2024-11-30 14:46:37,830: INFO: on: Application shutdown complete.]
+[2024-11-30 14:46:37,830: INFO: server: Finished server process [71468]]
+[2024-11-30 14:46:42,598: INFO: server: Started server process [42780]]
+[2024-11-30 14:46:42,599: INFO: on: Waiting for application startup.]
+[2024-11-30 14:46:42,599: INFO: on: Application startup complete.]
+[2024-11-30 14:46:42,600: INFO: server: Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)]
+[2024-11-30 14:46:56,440: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 14:53:18,702: INFO: server: Shutting down]
+[2024-11-30 14:53:18,810: INFO: on: Waiting for application shutdown.]
+[2024-11-30 14:53:18,811: INFO: on: Application shutdown complete.]
+[2024-11-30 14:53:18,811: INFO: server: Finished server process [42780]]
+[2024-11-30 15:59:01,459: INFO: server: Started server process [82412]]
+[2024-11-30 15:59:01,460: INFO: on: Waiting for application startup.]
+[2024-11-30 15:59:01,460: INFO: on: Application startup complete.]
+[2024-11-30 15:59:01,461: INFO: server: Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)]
+[2024-11-30 15:59:26,479: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 16:00:06,234: INFO: server: Shutting down]
+[2024-11-30 16:00:06,343: INFO: on: Waiting for application shutdown.]
+[2024-11-30 16:00:06,344: INFO: on: Application shutdown complete.]
+[2024-11-30 16:00:06,344: INFO: server: Finished server process [82412]]
+[2024-11-30 16:00:30,717: INFO: server: Started server process [54412]]
+[2024-11-30 16:00:30,718: INFO: on: Waiting for application startup.]
+[2024-11-30 16:00:30,718: INFO: on: Application startup complete.]
+[2024-11-30 16:00:30,719: INFO: server: Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)]
+[2024-11-30 16:00:44,071: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 16:01:23,695: INFO: server: Shutting down]
+[2024-11-30 16:01:23,804: INFO: on: Waiting for application shutdown.]
+[2024-11-30 16:01:23,805: INFO: on: Application shutdown complete.]
+[2024-11-30 16:01:23,806: INFO: server: Finished server process [54412]]
+[2024-11-30 16:03:16,820: INFO: server: Started server process [60156]]
+[2024-11-30 16:03:16,821: INFO: on: Waiting for application startup.]
+[2024-11-30 16:03:16,822: INFO: on: Application startup complete.]
+[2024-11-30 16:03:16,822: INFO: server: Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)]
+[2024-11-30 16:03:30,772: INFO: config: PyTorch version 2.4.1 available.]
+[2024-11-30 16:03:31,624: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-11-30 16:03:31,628: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 16:03:31,639: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-30 16:03:31,640: INFO: common: created directory at: artifacts]
+[2024-11-30 16:03:31,640: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-30 16:03:34,929: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A27B:347FC2:4C67A7:6028AC:674AE9FC
+Accept-Ranges: bytes
+Date: Sat, 30 Nov 2024 10:33:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100029-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1732962813.965701,VS0,VE652
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4fc8e0f71f08e90262c515073ce85e43130a1599
+Expires: Sat, 30 Nov 2024 10:38:33 GMT
+Source-Age: 0
+
+]
+[2024-11-30 16:03:35,037: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-11-30 16:03:35,037: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-11-30 16:03:35,040: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 16:03:35,042: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-30 16:03:35,043: INFO: common: created directory at: artifacts]
+[2024-11-30 16:03:35,043: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-30 16:03:35,045: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-11-30 16:03:35,046: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-11-30 16:03:35,049: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-30 16:03:35,051: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-30 16:03:35,052: INFO: common: created directory at: artifacts]
+[2024-11-30 16:03:35,052: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-30 16:03:39,869: ERROR: main: 
+ requires the protobuf library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+]
+Traceback (most recent call last):
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\convert_slow_tokenizer.py", line 1496, in extract_vocab_merges_from_model
+    from tiktoken.load import load_tiktoken_bpe
+ModuleNotFoundError: No module named 'tiktoken'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\convert_slow_tokenizer.py", line 1633, in convert_slow_tokenizer
+    return TikTokenConverter(
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\convert_slow_tokenizer.py", line 1533, in converted
+    tokenizer = self.tokenizer()
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\convert_slow_tokenizer.py", line 1526, in tokenizer
+    vocab_scores, merges = self.extract_vocab_merges_from_model(self.vocab_file)
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\convert_slow_tokenizer.py", line 1498, in extract_vocab_merges_from_model
+    raise ValueError(
+ValueError: `tiktoken` is required to read a `tiktoken` file. Install it with `pip install tiktoken`.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\tokenization_utils_base.py", line 2447, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\models\pegasus\tokenization_pegasus_fast.py", line 136, in __init__
+    super().__init__(
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\tokenization_utils_fast.py", line 138, in __init__
+    fast_tokenizer = convert_slow_tokenizer(self, from_tiktoken=True)
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\convert_slow_tokenizer.py", line 1638, in convert_slow_tokenizer
+    raise ValueError(
+ValueError: Converting from Tiktoken failed, if a converter for SentencePiece is available, provide a model path with a SentencePiece tokenizer.model file.Currently available slow->fast convertors: ['AlbertTokenizer', 'BartTokenizer', 'BarthezTokenizer', 'BertTokenizer', 'BigBirdTokenizer', 'BlenderbotTokenizer', 'CamembertTokenizer', 'CLIPTokenizer', 'CodeGenTokenizer', 'ConvBertTokenizer', 'DebertaTokenizer', 'DebertaV2Tokenizer', 'DistilBertTokenizer', 'DPRReaderTokenizer', 'DPRQuestionEncoderTokenizer', 'DPRContextEncoderTokenizer', 'ElectraTokenizer', 'FNetTokenizer', 'FunnelTokenizer', 'GPT2Tokenizer', 'HerbertTokenizer', 'LayoutLMTokenizer', 'LayoutLMv2Tokenizer', 'LayoutLMv3Tokenizer', 'LayoutXLMTokenizer', 'LongformerTokenizer', 'LEDTokenizer', 'LxmertTokenizer', 'MarkupLMTokenizer', 'MBartTokenizer', 'MBart50Tokenizer', 'MPNetTokenizer', 'MobileBertTokenizer', 'MvpTokenizer', 'NllbTokenizer', 'OpenAIGPTTokenizer', 'PegasusTokenizer', 'Qwen2Tokenizer', 'RealmTokenizer', 'ReformerTokenizer', 'RemBertTokenizer', 'RetriBertTokenizer', 'RobertaTokenizer', 'RoFormerTokenizer', 'SeamlessM4TTokenizer', 'SqueezeBertTokenizer', 'T5Tokenizer', 'UdopTokenizer', 'WhisperTokenizer', 'XLMRobertaTokenizer', 'XLNetTokenizer', 'SplinterTokenizer', 'XGLMTokenizer', 'LlamaTokenizer', 'CodeLlamaTokenizer', 'GemmaTokenizer', 'Phi3Tokenizer']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 38, in <module>
+    data_transformation.main()
+  File "C:\Users\prerit\OneDrive\Desktop\Minor_Project\hcaubdjkic\Text-Summarization-NLP-Project-main\Text-Summarization-NLP-Project-main\textSummarizer\pipeline\stage_03_data_transformation.py", line 13, in main
+    data_transformation = DataTransformation(config=data_transformation_config)
+  File "C:\Users\prerit\OneDrive\Desktop\Minor_Project\hcaubdjkic\Text-Summarization-NLP-Project-main\Text-Summarization-NLP-Project-main\textSummarizer\conponents\data_transformation.py", line 12, in __init__
+    self.tokenizer = AutoTokenizer.from_pretrained(config.tokenizer_name)
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\models\auto\tokenization_auto.py", line 939, in from_pretrained
+    return tokenizer_class_fast.from_pretrained(pretrained_model_name_or_path, *inputs, **kwargs)
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\tokenization_utils_base.py", line 2213, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\tokenization_utils_base.py", line 2448, in _from_pretrained
+    except import_protobuf_decode_error():
+  File "C:\Users\prerit\.conda\envs\summary\lib\site-packages\transformers\tokenization_utils_base.py", line 87, in import_protobuf_decode_error
+    raise ImportError(PROTOBUF_IMPORT_ERROR.format(error_message))
+ImportError: 
+ requires the protobuf library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
